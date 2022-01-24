@@ -1,1 +1,1 @@
-# comib-book-gallery
+# comic-book-gallery
